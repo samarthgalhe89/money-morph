@@ -14,12 +14,6 @@
 
 ---
 
-## Screenshots
-
-*(Add screenshots of your app here)*
-
----
-
 ## Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
